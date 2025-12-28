@@ -1,5 +1,7 @@
 ## 👋 Hello, I'm Sucharita!
 
+![](https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif)
+
 I'm a Computer Engineering student starting my journey into Data Analytics. I'm currently learning the fundamentals of data analysis and building projects to apply what I learn in a practical way.
 
 This GitHub is a record of my progress — including my first projects, experiments, and improvements over time. My goal is to develop strong analytical thinking and learn how to communicate insights using data.
