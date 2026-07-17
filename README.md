@@ -2,29 +2,7 @@
 
 ![](https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif)
 
-I'm a Computer Engineering student starting my journey into Data Analytics. I'm currently learning the fundamentals of data analysis and building projects to apply what I learn in a practical way.
-
-This GitHub is a record of my progress — including my first projects, experiments, and improvements over time. My goal is to develop strong analytical thinking and learn how to communicate insights using data.
-
-I'm learning how to collect, clean, analyze, and visualize data using tools like SQL, Excel, Python, and Power BI. My focus is on turning raw data into meaningful insights and clear stories
-
-### 🌱 Currently Learning 
-- SQL for data analysis
-- Excel for data cleaning and reporting
-- Python for exploratory data analysis
-- Power BI for dashboard creation
-
-### 📊 What you'll find here
-- Beginner-friendly data analysis projects
-- Cleaned datasets and analysis notebooks
-- Dashboards and visual reports
-- Continuous learning and experimentation
-
-### 🎯 Goals
-- Build a strong data analytics portfolio
-- Learn through real-world datasets
-- Improve storytelling with data
-
+I'm a Computer Engineering student. 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
